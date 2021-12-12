@@ -1,6 +1,6 @@
 ![](https://github.com/DuLinRain/pictures/blob/master/profile.png?raw=true)
 # 
-### Hi there, I'm DuLinRain 👋
+### Hi there, I'm DuLinRain 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vitasha10)
 
 <p align="center">
 <a href="https://github.com/dulinrain">
