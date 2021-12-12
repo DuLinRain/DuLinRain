@@ -4,7 +4,7 @@
 </a>
 
 
-### Hi there, I'm DuLinRain 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vitasha10)
+### Hi there, I'm DuLinRain 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dulinrain)
 
 <p align="center">
 <a href="https://github.com/dulinrain">
